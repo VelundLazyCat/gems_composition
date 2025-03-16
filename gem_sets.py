@@ -119,7 +119,7 @@ medieval_brooches = {"ea10": "1_baguet_cz_8x6_cut_garnet,4_spher_pearl_10x10_bea
                      "ea47": "1_round_glass_5x5_cab_blue,3_half_pearl_7x7_bead_white",
                      "ea48": "2_round_glass_5x5_cab_red",
                      "ea49": "1_kva_cz_7x7_cut_garnet,4_oval_glass_8x6_cab_garnet,4_spher_pearl_10x10_bead_white",
-                     "ea50": "1_baguet_cz_20x10_cut_garnet,16_pearl_half_5.5x5.5_bead_white,1_drop_pearl_14x10_bead_white",
+                     "ea50": "1_baguet_cz_20x10_cut_garnet,16_half_pearl_5.5x5.5_bead_white,1_drop_pearl_14x10_bead_white",
                      "ea51": "1_baguet_cz_20x10_cut_garnet,3_drop_pearl_14x10_bead_white",
                      "ea52": "4_baguet_cz_8x6_cut_purple,1_round_cz_8x8_cut_ruby,1_round_glass_5x5_cab_red,4_potat_pearl_8x6_bead_white",
                      "ea53": "4_octa_cz_9x7_cut_blue,1_round_cz_8x8_cut_blue,3_drop_pearl_14x10_bead_white",
