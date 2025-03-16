@@ -44,6 +44,7 @@ def get_gem_composition(articul, quontity):
 
 
 def get_set_composition(articul, quontity):
+    articul = articul.upper()
     item_composition = SETS_DICT.get(articul, None)
     if not item_composition:
         raise ValueError(f"Item {articul} not found in DataBase")
