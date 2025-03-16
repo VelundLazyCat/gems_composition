@@ -132,7 +132,7 @@ medieval_brooches = {"ea10": "1_baguet_cz_8x6_cut_garnet,4_spher_pearl_10x10_bea
                      "ea60": "2_round_glass_5x5_cab_red",
                      "ea64": "8_spher_coral_5.5x5.5_bead_red",
                      "ea65": "9_spher_coral_5.5x5.5_bead_red",
-                     "ea67": "1_cust_cz_19x14_cut_garnet,1_oct_cz_12x10_cut_lightgreen,1_potat_glass_16x9_bead_blue",
+                     "ea67": "1_cust_cz_19x14_cut_garnet,1_octa_cz_12x10_cut_lightgreen,1_potat_glass_16x9_bead_blue",
                      "ea68": "5_oval_glass_8x6_cab_blue,4_oval_glass_8x6_cab_red",
                      "ea69": "1_oval_glass_12x10_cab_red,1_trial_cz_7x7_cut_lightgreen,5_spher_pearl_10x10_bead_white",
                      "ea70": "custom-gem-set",
