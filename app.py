@@ -91,7 +91,7 @@ if st.button(label='Do It ', help='Прожмакай кнопку щоб отр
     try:
         result = predicts[select](input_articul, input_quontity)
         for i in result:
-            if not result:
+            if not select:
                 st.subheader(get_text_about_gem(i))
             else:
                 st.subheader(get_text_about_item(i))
