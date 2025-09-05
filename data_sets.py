@@ -151,7 +151,7 @@ BURG4_SET = ('BURG4-SET', 'ek97_1,ex97_1,en79_3')
 CAFFA_SET = ('CAFFA-SET', 'ek61_1,ek62_1,en74_18,en74-hole_2,en75_6,ec06_2')
 CER_SET = ('CER-SET', 'ek92_1,ex92_1,en48_20,ec04_1')
 ELBS8_SET = ('ELBS8-SET', 'ek93_1,ex93_1,en52_18,en52l_2')
-MET_SET = ('MET-SET', 'ek62_1,ex62_1,en22-1_10,en25-1_10,en77_7,en78_1')
+MET_SET = ('MET-SET', 'ek62_1,ex62_1,en22-1_10,en25-1_10,en77_8,en78_1')
 
 COMPLEXE_EUROPE_SETS = [OTTO_SET, POMER_SET, BURG1_SET, BURG2_SET,
                         BURG3_SET, BURG4_SET, CAFFA_SET, CER_SET, ELBS8_SET, MET_SET]
@@ -301,3 +301,4 @@ SETS = TARSOLY + TARSOLY_SETS + EARLY_BELT_SETS + NOMAD_BELT_SETS + SIMPLE_EUROP
 SETS_DICT = {a[0]: a[1] for a in SETS}
 if __name__ == "__main__":
     [print(s) for s in SETS]
+
