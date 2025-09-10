@@ -98,7 +98,7 @@ medieval_brooches = {"ea10": "1_baguet_cz_8x6_cut_garnet,4_spher_pearl_10x10_bea
                      "ea17": "1_round_glass_7x7_cab_red,1_kva_cz_3x3_cut_blue,4_spher_pearl_6x6_bead_white,1_drop_pearl_14x10_bead_white",
                      "ea18": "None",
                      "ea19": "None",
-                     "ea20": "1_baguet_cz_6x4_cut_red,20_half_pearl_4.5x4.5_bead_white",
+                     "ea20": "1_baguet_cz_6x4_cut_blue,20_half_pearl_4.5x4.5_bead_white",
                      "ea21": "1_oval_glass_12x10_cab_red,10_spher_pearl_10x10_bead_white,16_spher_pearl_4.5x4.5_bead_white",
                      "ea23": "1_round_glass_8x8_cab_blue,4_round_glass_5x5_cab_red,2_round_glass_5x5_cab_green,2_round_glass_5x5_cab_purple,8_half_pearl_5.5x5.5_bead_white",
                      "ea27": "2_round_glass_10x10_cab_red,8_round_glass_6x6_cab_blue",
@@ -262,4 +262,5 @@ if __name__ == "__main__":
 
     for k, v in gemstone_dict.items():
         print(k, ": ", v, sep='')
+
 
